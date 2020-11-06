@@ -1,4 +1,5 @@
 # Sample vala project for easy starting with unit tests
+The main purpose of this repo is to provide a vala project setup with minimal unit test configuration. 
 
 ### Install Dependencies
 
@@ -17,5 +18,5 @@ or
  sh execute_test.sh
  ```
 
- ### Add new unit test
- create new unit test file under `tests` and adjust `meson.build` file in `tests` accordingly
+ ### Add a new unit test
+ Create new unit test file under `tests` and adjust `meson.build` file accordingly.
